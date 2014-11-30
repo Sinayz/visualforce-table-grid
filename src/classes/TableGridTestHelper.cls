@@ -30,7 +30,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *	Test Helper used by multiple Test classes
  */
 public class TableGridTestHelper {
-    //final static String TESTUSER_PROFILE = 'U2G_TestUserProfile';
+    final static String TESTUSER_PROFILE = 'U2G_TestUserProfile';
     public final static String ACCESSIBLE_SOBJECT = 'TableGridAccessible__c';
     public final static String TEXT_FIELD = 'txt_TextField__c';
     public final static String INTEGER_FIELD = 'num_IntegerField__c';
